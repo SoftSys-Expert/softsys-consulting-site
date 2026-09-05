@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://softsysconsulting.com/sitemap.xml
